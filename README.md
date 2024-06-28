@@ -33,10 +33,11 @@ I am a communication instructor gone rogue! Now entering the world of data scien
     <li>Some of my teachers through the years...</li>
     <a href="https://github.com/djprofessorkash"><img height="25%" width="auto" style="padding-right:5px" src="https://custom-icon-badges.demolab.com/badge/Aakash%20Sudhakar-cc7000.svg?logo=star"></a>
     <a href="https://github.com/cndreisbach"><img height="25%" width="auto" style="padding-right:5px" src="https://custom-icon-badges.demolab.com/badge/Clinton%20Dreisbach-cc7000.svg?logo=star"></a>
-<!--     <li>...and some of my friends, peers, and allies...</li>
-    <a href="https://github.com/benjipollock"><img height="25%" width="auto" style="padding-right:5px" src="https://custom-icon-badges.demolab.com/badge/Benji%20Pollock-150458.svg?logo=mortar-board"></a>
-    <a href="https://github.com/uch1"><img height="25%" width="auto" style="padding-right:5px" src="https://custom-icon-badges.demolab.com/badge/Uchenna%20Aguocha-150458.svg?logo=mortar-board"></a>
-    <br /> -->
+    <li>...and some of my friends, peers, and allies...</li>
+    <a href="https://github.com/jwperry"><img height="25%" width="auto" style="padding-right:5px" src="https://custom-icon-badges.demolab.com/badge/Joseph%20Perry-150458.svg?logo=mortar-board"></a>
+    <a href="https://github.com/EmKayUltra"><img height="25%" width="auto" style="padding-right:5px" src="https://custom-icon-badges.demolab.com/badge/Matt%20Kornher-150458.svg?logo=mortar-board"></a> 
+    <a href="https://github.com/adamzaninovich"><img height="25%" width="auto" style="padding-right:5px" src="https://custom-icon-badges.demolab.com/badge/Adam%20Zaninovich-150458.svg?logo=mortar-board"></a>
+    <br />
   </ul>
 </p>
 
