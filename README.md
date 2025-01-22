@@ -9,7 +9,7 @@ I am a communication instructor gone rogue! Now entering the world of data scien
 ![-----------------------------------------------------](https://github.com/dmm4613/dmm4613/blob/main/LineBreak_Copper.png)
 
 #### 🔍 Current Professional Objectives:
-- Complete my data science bootcamp and get a jon with an awesome company in data analytics
+- Land a great job with an awesome company in data analytics
 - Absorb the worlds knowledge of data science
 
 #### 🚀 Moonshot Career Goals:
@@ -47,7 +47,10 @@ I am a communication instructor gone rogue! Now entering the world of data scien
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>         <!-- JavaScript -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>   <!-- Django -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>                 <!-- Python -->
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"></code>                 <!-- PyTorch -->
+ 
     <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg"></code>  <!-- Power BI -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>               <!-- Jupyter -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>               <!-- Git -->  
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>                 <!-- Docker -->
