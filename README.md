@@ -48,8 +48,7 @@ I am a communication instructor gone rogue! Now entering the world of data scien
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>   <!-- Django -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>                 <!-- Python -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"></code>                 <!-- PyTorch -->
- 
-    <br />
+  <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg"></code>  <!-- Power BI -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>               <!-- Jupyter -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>               <!-- Git -->  
